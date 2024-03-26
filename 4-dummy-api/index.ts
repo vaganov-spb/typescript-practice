@@ -1,4 +1,3 @@
-import { Dir } from "fs";
 import fetch from "node-fetch";
 
 interface IApiResponse {
