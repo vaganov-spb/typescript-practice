@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "deep-equal": "^2.2.3",
+    "node-fetch": "^2.7.0",
+    "object-hash": "^3.0.0",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.18.89",
+    "@types/node-fetch": "^2.6.11",
+    "@types/object-hash": "^3.0.6"
+  }
+}
